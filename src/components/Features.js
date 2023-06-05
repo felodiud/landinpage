@@ -38,7 +38,7 @@ function Features () {
             <p className="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
         </div>
         <div className="col-md-5">
-            <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="https://media.a24.com/p/775c492719ae3ad33d22fc5e1c3c6531/adjuntos/296/imagenes/008/769/0008769191/1200x675/smart/the-office-3jpg.jpg"></img>
 
         </div>
         </div>
@@ -51,7 +51,7 @@ function Features () {
             <p className="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
         </div>
         <div className="col-md-5 order-md-1">
-            <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="https://images.nymag.com/images/2/daily/2009/09/20090925_office_560x375.jpg"></img>
 
         </div>
         </div>
@@ -64,7 +64,7 @@ function Features () {
             <p className="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
         </div>
         <div className="col-md-5">
-            <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+            <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="https://www.tvguide.com/a/img/resize/8a4f48ea1f1dc5a9d383d37633b7fb9ab775e893/hub/2021/09/13/145c8ae8-d54b-48cc-90f2-75f953e9ab87/210913-theoffice.jpg?auto=webp"></img>
 
         </div>
         </div>

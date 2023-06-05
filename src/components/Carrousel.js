@@ -8,18 +8,19 @@ function  Carrousel () {
     </div>
     <div className="carousel-inner">
       <div className="carousel-item carousel-item-next carousel-item-start">
-        <svg className="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+        <img className="bd-placeholder-img" width="100%" height="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" src='https://preview.redd.it/phooeof2mie41.png?width=7087&format=png&auto=webp&s=deeb847cf786d862f7cb3b038571c63e417d20ce'></img>
 
         <div className="container">
           <div className="carousel-caption text-start">
-            <h1>Example headline.</h1>
-            <p>Some representative placeholder content for the first slide of the carousel.</p>
+            <h1 className='text-primary'>Example headline.</h1>
+            <p className='text-primary'>Some representative placeholder content for the first slide of the carousel.</p>
             <p><a className="btn btn-lg btn-primary" href="#">Sign up today</a></p>
           </div>
         </div>
       </div>
       <div className="carousel-item">
-        <svg className="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+        <img className="bd-placeholder-img" width="100%" height="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" src='https://whimsysoul.com/wp-content/uploads/2020/02/Whimsy-Soul-Dunder-Mifflin-The-Office-3-320x240.png'></img>
+        
 
         <div className="container">
           <div className="carousel-caption">
@@ -30,8 +31,7 @@ function  Carrousel () {
         </div>
       </div>
       <div className="carousel-item active carousel-item-start">
-        <svg className="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
-
+        <img className="bd-placeholder-img" width="100%" height="100%" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false" src='https://i.pinimg.com/600x315/9d/f8/3a/9df83a4145663814b07f03d9eec50fae.jpg'></img>
         <div className="container">
           <div className="carousel-caption text-end">
             <h1>One more for good measure.</h1>
